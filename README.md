@@ -4,8 +4,7 @@
 
 #### 논문 참고
 ##### Multi-hop Selector Network for Multi-turn Response Selection in Retrieval-based Chatbots
-[Multi-hop Selector Network for Multi-turn Response Selection in Retrieval-based Chatbots]
-
-https://github.com/chunyuanY/Dialogue
+논문 https://www.aclweb.org/anthology/D19-1011.pdf
+코드 https://github.com/chunyuanY/Dialogue
 
 
